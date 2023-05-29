@@ -1,0 +1,16 @@
+{
+  "name": "compare-cloud-drives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indeix.mjs",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
